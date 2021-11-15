@@ -46,7 +46,6 @@ linux:
   category: Development
   vendor: Eclipse Foundation, Inc
   target:
-    - deb
     - AppImage
   publish:
     provider: generic
